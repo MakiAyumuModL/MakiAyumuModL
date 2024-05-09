@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @MakiAyumuModL
-- 👀 I’m interested in IT/Programming
+- 👀 I’m interested in IT/Programming/Computer Science/Data analaysis
 - 🌱 I’m currently learning Python But ill give JS and C+ A try soon
 - 📫 TO reach me out my email is lannyetui@gmail.com
 
